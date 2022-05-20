@@ -1,0 +1,4 @@
+- name: S3 File Upload for gzip and brotli file
+  # You may pin to the exact commit or the version.
+  # uses: lestravo/s3-upload-github-action@2ac17c62797e89fd2e2bd6ae5c6ba76fb2c9008d
+  uses: lestravo/s3-upload-github-action@v1.0.3
